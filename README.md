@@ -1,6 +1,6 @@
 # Wireless Home Automation Node
 
-<img src="https://github.com/jaida/HA-RFM69W-Node/blob/master/node.png" alt="RFM69W Home Automation Node">
+<img src="https://github.com/Jaidan/HA-RFM69W-Node/blob/master/node.png" alt="RFM69W Home Automation Node">
 
 See the following link for Arduino drivers for the RFM69W  
   * https://github.com/LowPowerLab/RFM69
